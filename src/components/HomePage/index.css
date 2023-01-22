@@ -1,0 +1,42 @@
+.logo-btn{
+    background:transparent;
+    border: none;
+}
+.home-cont{
+    background-color:  #152850;
+    min-height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.website-logo{
+    height: 56px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 60px;
+    width: 90%;
+}
+.logout-btn{
+    background: transparent;
+    border: 1px solid #e0eefe;
+    color: #e0eefe;
+    height: 34px;
+    width: 100px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.content-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 450px;
+}
+.card{
+    height: 300px;
+}
+.main-heading{
+    font-size: 38px;
+}
